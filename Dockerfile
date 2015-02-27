@@ -1,0 +1,2 @@
+FROM ubuntu
+ENV LANG en_US.UTF-8
